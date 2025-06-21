@@ -7,7 +7,7 @@
 - 🎯 Explore Interests, Build Projects , Networking
 <h2 style="font-family:Lucida Sans;">:woman_technologist:SKILLS<br></h2>
 - Knows HTML CSS and Basic JS in Web Development. <br>
-- Knows JAVA and JAVA GUI in App Development.<br>
+- Knows JAVA and XML in App Development.<br>
 - Knows SQL , Spreadsheet software for Backend Entry.<br>
 - Knows Automation Tools i.e. WORD , POWERPOINT , EXCEL <br>
 - Knows Video Editing , Scratch.
