@@ -3,7 +3,7 @@
   I'm Angel Gupta from Chandigarh.<br>
 <h2 style="font-family:Lucida Sans;">:woman:ABOUT ME <br></h2>
 - ✨ Creating bugs since 2021<br>
-- 📚 I'm currently learning Python<br>
+- 📚 Currently developing proficiency in Android Development.<br>
 - 🎯 Explore Interests, Build Projects , Networking
 <h2 style="font-family:Lucida Sans;">:woman_technologist:SKILLS<br></h2>
 - Knows HTML CSS and Basic JS in Web Development. <br>
