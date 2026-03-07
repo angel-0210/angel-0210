@@ -60,11 +60,9 @@ I approach development through a **systems mindset**: not just features, but com
 
 ## 🔥 GitHub Activity
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=angel-0210&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=angel-0210&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
