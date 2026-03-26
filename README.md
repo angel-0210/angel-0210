@@ -1,120 +1,47 @@
-<div align="center">
+<h1 align="center">Hey 👋 I'm Angel Gupta</h1>
 
-# 👋 Hi, I'm Angel Gupta  
-### Android Developer • Backend-Focused Builder • Clean Architecture Enthusiast
-
-<p>
+<p align="center">
 I build scalable Android applications with structured architecture, reliable data layers, and production-ready design patterns.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Android+Developer;Kotlin+Engineer;Backend+Systems+Explorer;Clean+Architecture+Advocate;API+Integration+;Building+Production-Ready+Apps" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/angel-gupta-2042b8397/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://angelgupta-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="mailto:angelgupta.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=angel-0210&style=for-the-badge&color=blue" />
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Android+Developer;Kotlin+Engineer;Backend+Systems+Explorer;Clean+Architecture+Advocate;API+Integration+Specialist;Building+Production-Ready+Apps" />
+</p>
 
 ---
 
-# 🚀 About Me
 
-I specialize in building **production-ready Android applications** with a strong focus on:
-
-- Clean Architecture  
-- Scalable code structure  
-- Performance optimization  
-- Maintainable systems  
-- Real-world application workflows  
-
-My development approach follows a **systems mindset** — designing applications from **UI → business logic → persistence → scalability**.
-
-Currently expanding into **backend engineering** to strengthen full-stack system design capabilities.
-
----
-
-# 🧠 Core Engineering Strengths
-
-## 📱 Android Development
-
-- Kotlin (Primary)
-- Java
-- Jetpack Compose
-- Android SDK
-- MVVM Architecture
-- Clean Architecture
-- Room Database
-- SQLite
-- RecyclerView
-- Coroutines
-- Flow
-- Navigation Component
-- Material Design
-- Dependency Injection (Hilt / Dagger)
-- Retrofit
-- OkHttp
-- Firebase Authentication
-- Firebase Firestore
-- Push Notifications
-- Offline-first data handling
-
----
-
-## 🌐 Backend & System Design (Growing Expertise)
-
-- REST API Architecture
-- API Integration
-- JSON Serialization
-- Repository Pattern
-- Service Layer Design
-- Authentication Concepts (JWT)
-- Database Schema Design
-- Error Handling Strategies
-- Scalable Routing Patterns
-- Backend Fundamentals
-
----
-
-# 🛠 Tech Stack
+# 🧰 Tech Stack
 
 <div align="center">
 
-### Languages
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Android
-
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack-Compose-4285F4?style=for-the-badge)
-![Room](https://img.shields.io/badge/Room-Database-3DDC84?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
-
-### Networking
-
-![Retrofit](https://img.shields.io/badge/Retrofit-API-009688?style=for-the-badge)
-![OkHttp](https://img.shields.io/badge/OkHttp-Networking-000000?style=for-the-badge)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git)
-![Android Studio](https://img.shields.io/badge/Android-Studio-3DDC84?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="60" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="60" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" />
 
 </div>
 
@@ -123,21 +50,25 @@ Currently expanding into **backend engineering** to strengthen full-stack system
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=angel-0210&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-0210&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com?user=angel-0210&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🧠 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angel-0210/angel-0210/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/angel-0210/angel-0210/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/angel-0210/angel-0210/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+# 📈 Activity Graph
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=angel-0210&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angel-0210&radius=16&theme=react&area=true" height="300" />
 </div>
 
 ---
@@ -148,8 +79,8 @@ Currently expanding into **backend engineering** to strengthen full-stack system
 
 | Project | Description | Architecture | Tech Stack |
 |--------|-------------|-------------|-----------|
-| **Trackify** | Full-featured expense tracker with budgets, analytics, and recurring transactions | MVVM + Repository | Java, Room, Firebase |
-| **TrackNote** | Multi-user notes application with session management and CRUD workflows | Clean Architecture | Java, Room |
+| **Trackify** | Full-featured expense tracker with budgets, analytics, recurring transactions, and reports | MVVM + Repository | Java, Room, Firebase |
+| **TrackNote** | Multi-user notes application with authentication, session management, and CRUD workflows | Clean Architecture | Java, Room |
 | **WeatherSnap** | Real-time weather application using REST APIs | MVC | Java, Retrofit |
 | **Portfolio Website** | Personal portfolio showcasing projects and skills | Responsive UI | HTML, CSS, JavaScript |
 
@@ -157,59 +88,29 @@ Currently expanding into **backend engineering** to strengthen full-stack system
 
 ---
 
-# 🧩 Engineering Focus Areas
-
-- Scalable Android Architecture
-- Modular Code Design
-- Repository Pattern
-- Offline-first Mobile Apps
-- API Integration
-- Data Persistence
-- Performance Optimization
-- Maintainable Codebases
-- System Design Thinking
-
----
-
-# 📚 Currently Learning
-
-- Advanced System Design
-- Backend Architecture
-- Scalable API Development
-- Clean Code Practices
-- Dependency Injection Patterns
-- Performance Optimization
-- Production App Architecture
-
----
-
-# 🎯 2026 Goals
-
-- Build production-level Android apps
-- Master backend system design
-- Contribute to open-source projects
-- Strengthen architecture and scalability skills
-- Prepare for Android / Backend developer roles
-
----
-
-<div align="center">
-
 # 💡 Engineering Philosophy
-
+<div align="center">
 Consistency > Motivation  
 Architecture > Shortcuts  
 Reliability > Complexity  
 Systems Thinking > Feature Thinking  
 
 **Build software that lasts.**
+</div>
+
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
-<a href="https://www.linkedin.com/in/angel-gupta-2042b8397/">LinkedIn</a> • 
-<a href="https://angelgupta-portfolio.vercel.app/">Portfolio</a> • 
-<a href="mailto:angelgupta.dev@gmail.com">Email</a>
+<div align="center">
+
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" />
+
+<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" />
+
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" />
 
 </div>
+
+---
