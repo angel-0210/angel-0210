@@ -104,13 +104,12 @@ Systems Thinking > Feature Thinking
 # 🤝 Connect With Me
 
 <div align="center">
-
+<a href="https://linkedin.com/in/angel-gupta-2042b8397">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" />
-
-<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" />
-
+</a>
+<a href="mailto:angelgupta.dev@gmail.com">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" />
-
+</a>
 </div>
 
 ---
