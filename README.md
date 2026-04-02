@@ -11,7 +11,7 @@ I build scalable Android applications with structured architecture, reliable dat
 ---
 
 
-# 🧰 Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -55,7 +55,7 @@ I build scalable Android applications with structured architecture, reliable dat
 
 ---
 
-# 🧠 Contribution Activity
+#  Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angel-0210/angel-0210/output/pacman-contribution-graph-dark.svg">
@@ -65,7 +65,7 @@ I build scalable Android applications with structured architecture, reliable dat
 
 ---
 
-# 📈 Activity Graph
+#  Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=angel-0210&radius=16&theme=react&area=true" height="300" />
@@ -73,7 +73,7 @@ I build scalable Android applications with structured architecture, reliable dat
 
 ---
 
-# 📌 Featured Projects
+#  Featured Projects
 
 <div align="center">
 
@@ -88,7 +88,7 @@ I build scalable Android applications with structured architecture, reliable dat
 
 ---
 
-# 💡 Engineering Philosophy
+#  Engineering Philosophy
 <div align="center">
 Consistency > Motivation  
 Architecture > Shortcuts  
@@ -101,7 +101,7 @@ Systems Thinking > Feature Thinking
 
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
 <div align="center">
 <a href="https://linkedin.com/in/angel-gupta-2042b8397">
