@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Angel Gupta</h1>
+<h1 align="center">Hey ,I'm Angel Gupta</h1>
 
 <p align="center">
 I build scalable Android applications with structured architecture, reliable data layers, and production-ready design patterns.
