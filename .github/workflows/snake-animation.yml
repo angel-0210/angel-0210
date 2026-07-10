@@ -1,0 +1,37 @@
+# GitHub Actions Workflow - Snake Contribution Animation
+# Place this file in: .github/workflows/snake.yml
+
+name: 🐍 Snake Contribution Graph
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+          snake_color: '#00D9FF'
+          dark_color: '#1a1b26'
+          dark_snake_color: '#00D9FF'
+
+      - name: Push generated files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: '🐍 Update snake animation'
+          file_pattern: dist/*.svg
+          branch: main

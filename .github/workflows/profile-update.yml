@@ -1,0 +1,66 @@
+# GitHub Actions Workflow - Automatic Profile Updates
+# Place this file in: .github/workflows/update-profile.yml
+
+name: 🔄 Update Profile README
+
+on:
+  schedule:
+    # Runs daily at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+      - '.github/workflows/update-profile.yml'
+
+jobs:
+  update-readme:
+    name: Update README with Latest Stats
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Update dynamic content
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: ${{ github.repository_owner }}
+        run: |
+          python scripts/update-readme.py
+
+      - name: Verify README format
+        run: |
+          # Simple validation to ensure README is still valid markdown
+          if grep -q "# " README.md; then
+            echo "✅ README format check passed"
+          else
+            echo "❌ README format check failed"
+            exit 1
+          fi
+
+      - name: Commit changes if any
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: '📝 Auto-update: Profile stats & content'
+          file_pattern: README.md
+          branch: main
+          skip_dirty_check: true
+          status_options: '--untracked-files=no'
+          disable_globbing: false
