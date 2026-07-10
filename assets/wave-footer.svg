@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="cyberGradFooter" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="50%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#00D9FF" />
+    </linearGradient>
+  </defs>
+  <path d="M0,80L120,74.7C240,69,480,59,720,64C960,69,1200,85,1320,93.3L1440,101.3L1440,120L1320,120C1200,120,960,120,720,120C480,120,240,120,120,120L0,120Z" fill="url(#cyberGradFooter)" opacity="0.85"></path>
+  <path d="M0,50L120,58.3C240,67,480,83,720,80C960,77,1200,53,1320,41.3L1440,30L1440,120L1320,120C1200,120,960,120,720,120C480,120,240,120,120,120L0,120Z" fill="url(#cyberGradFooter)" opacity="0.35"></path>
+</svg>

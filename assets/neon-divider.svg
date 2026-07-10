@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 60" fill="none">
+  <defs>
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0" />
+      <stop offset="25%" stop-color="#00D9FF" stop-opacity="1" />
+      <stop offset="50%" stop-color="#8b5cf6" stop-opacity="1" />
+      <stop offset="75%" stop-color="#00D9FF" stop-opacity="1" />
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0" />
+    </linearGradient>
+    <filter id="neonGlow" x="-10%" y="-50%" width="120%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <line x1="100" y1="30" x2="1100" y2="30" stroke="url(#glowGrad)" stroke-width="4" filter="url(#neonGlow)" />
+  <polygon points="600,18 612,30 600,42 588,30" fill="#8b5cf6" filter="url(#neonGlow)" />
+  <circle cx="600" cy="30" r="4" fill="#00D9FF" />
+</svg>
