@@ -67,6 +67,8 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ### 📱 Mobile & Web Frameworks
@@ -94,6 +96,13 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
+### ⚙️ Platforms & Automation
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
 </div>
 
 ---
@@ -101,13 +110,17 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <h4>📦 3D Contribution Visual</h4>
-  <img src="https://raw.githubusercontent.com/angel-0210/angel-0210/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions Graph" width="85%" />
+  <h3>🎯 3D Contribution Calendar</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angel-0210/angel-0210/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/angel-0210/angel-0210/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img src="https://raw.githubusercontent.com/angel-0210/angel-0210/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="85%" />
+  </picture>
   
   <br/><br/>
   
   <table align="center" width="100%">
-    <tr>
+    <!-- <tr>
       <td align="center" width="50%">
         <h4>🔥 GitHub Statistics</h4>
         <img src="https://github-stats-extended.vercel.app/api?username=angel-0210&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="95%" />
@@ -116,14 +129,14 @@
         <h4>📊 Language Distribution</h4>
         <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=angel-0210&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="95%" />
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td align="center" width="50%">
-        <h4>🔗 Streak Stats</h4>
+        <h4>🔗 Coding Streak & Consistency</h4>
         <img src="https://streak-stats.demolab.com/?user=angel-0210&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
       </td>
       <td align="center" width="50%">
-        <h4>📈 Activity Graph</h4>
+        <h4>📈 Contribution Activity Timeline</h4>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=angel-0210&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%" />
       </td>
     </tr>
@@ -174,7 +187,7 @@
   </p>
 </div>
 
-<table align="center" width="70%">
+<!-- <table align="center" width="70%">
   <tr>
     <td align="left">
       <ul>
@@ -186,11 +199,11 @@
       </ul>
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <table align="center" width="100%">
     <tr>
       <td align="center" width="50%">
@@ -202,7 +215,7 @@
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="90%" />
       </td>
     </tr>
-  </table>
+  </table> -->
   
   <br/>
   <p><strong>Star my repositories if you found them helpful! 🌟</strong></p>

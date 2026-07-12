@@ -1,0 +1,32 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"  # Runs every Sunday at midnight UTC
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate 3D Contribution
+        uses: yihong0618/github-profile-3d-contrib@main
+        env:
+          USERNAME: ${{ github.repository_owner }}
+          DEPTH: 1
+          MAX_PARTICLE: 300000
+          
+      - name: Commit & Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          if git diff --quiet profile-3d-contrib/; then
+            echo "No changes to commit"
+          else
+            git add -A
+            git commit -m "Generate 3D contribution graph"
+            git push
+          fi
