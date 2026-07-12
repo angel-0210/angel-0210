@@ -4,24 +4,29 @@
   
   <p align="center"><strong>Transforming Complex Ideas into Elegant Digital Experiences</strong></p>
 
+<div align="center">
   <p align="center">
-    <a href="https://github.com/angel-0210">
-      <img src="https://img.shields.io/github/followers/angel-0210?logo=github&style=flat-square&color=8b5cf6&label=Followers" alt="GitHub Followers" />
+    <a href="mailto:angelgupta.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/angel-0210">
-      <img src="https://img.shields.io/github/stars/angel-0210?logo=github&style=flat-square&color=f59e0b&label=Stars" alt="GitHub Stars" />
+    <a href="https://www.linkedin.com/in/angel-gupta-2042b8397/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=angel-0210&label=Profile%20Views&color=0891b2&style=flat-square" alt="Profile Views" />
-  </p>
-
-  <p align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" style="border-radius: 8px;" />
+    <a href="https://angelgupta-portfolio.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=chrome&logoColor=white" alt="Portfolio" />
+    </a>
   </p>
 </div>
 
----
+  <!-- <p align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" style="border-radius: 8px;" />
 
-## 🎯 About Me
+  </p> -->
+</div>
+
+
+
+<!-- ## 🎯 About Me
 
 <table align="center" width="100%">
   <tr>
@@ -44,16 +49,9 @@
       </ul>
     </td>
   </tr>
-</table>
+</table> -->
 
-<div align="center">
-  <h3>🌍 Let's Connect</h3>
-  <p align="center">
-    <a href="mailto:angelgupta.dev@gmail.com"><strong>📧 Email</strong></a> • 
-    <a href="https://www.linkedin.com/in/angel-gupta-2042b8397"><strong>💼 LinkedIn</strong></a> • 
-    <a href="https://angelgupta-portfolio.vercel.app/"><strong>🌐 Portfolio</strong></a>
-  </p>
-</div>
+
 
 ---
 
@@ -110,11 +108,11 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <h3>🎯 3D Contribution Calendar</h3>
+  <h3>🎯 Contribution Calendar</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angel-0210/angel-0210/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angel-0210/angel-0210/main/profile-3d-contrib/profile-night-green.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/angel-0210/angel-0210/main/profile-3d-contrib/profile-green-animate.svg" />
-    <img src="https://raw.githubusercontent.com/angel-0210/angel-0210/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="85%" />
+    <img src="https://raw.githubusercontent.com/angel-0210/angel-0210/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Calendar" width="85%" />
   </picture>
   
   <br/><br/>
@@ -150,16 +148,30 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>📱 Expense Tracker</h4>
+      <h4>📱 Trackify - Expense Tracker</h4>
       <p>Smart financial management app with real-time analytics and budget optimization.</p>
-      <p><strong>Tech Stack:</strong> Kotlin, Jetpack Compose, Room DB, Firebase Analytics</p>
+      <p><strong>Tech Stack:</strong> Java, XML, Room DB, Firebase Analytics</p>
       <a href="https://github.com/angel-0210/TRACKIFY">🔗 View Repository</a>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Portfolio Website</h4>
+      <h4>🌐 Portfolio </h4>
       <p>Modern portfolio showcasing projects with interactive 3D elements and smooth animations.</p>
-      <p><strong>Tech Stack:</strong> Next.js, React, Tailwind CSS, Three.js</p>
+      <p><strong>Tech Stack:</strong> Html, CSS, JS</p>
       <a href="https://github.com/angel-0210/angelgupta-portfolio">🔗 View Repository</a> | <a href="https://angelgupta-portfolio.vercel.app/">🌐 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>� TrackNote - Notes App</h4>
+      <p>Feature-rich note-taking application with cloud sync, rich text editing, and offline support.</p>
+      <p><strong>Tech Stack:</strong> Java, XML, Room DB, Firebase Firestore</p>
+      <a href="https://github.com/angel-0210/TrackNote">🔗 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>✈️ Explore India - Travel Recommendation</h4>
+      <p>Smart travel planning app with destination recommendations, itinerary builder, and trip budget tracker.</p>
+      <p><strong>Tech Stack:</strong> Html, CSS, JS</p>
+      <a href="https://github.com/angel-0210/exploreBharat">🔗 View Repository</a> | <a href="https://explorebharat.onrender.com/">🌐 Live Demo</a>
     </td>
   </tr>
 </table>
